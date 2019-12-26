@@ -1,0 +1,12 @@
+[
+    {
+        "id": "downloaddropbox",
+        "caption": "Download notes from Drobbox",
+        "command": "download_dropbox"
+    },
+    {
+        "id": "uploaddropbox",
+        "caption": "Upload notes to Dropbox",
+        "command": "upload_dropbox"
+    }
+]
